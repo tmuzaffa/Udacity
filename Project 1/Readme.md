@@ -6,7 +6,7 @@
 1. [Libraries used for the project](#libraries)
 2. [Objective](#motivation)
 3. [File Descriptions](#files)
-4. [Summary Of The Conclusions](#results)
+4. [Summary Of Conclusions](#results)
 5. [Acknowledgements](#acknowledgements)
 
 ## Libraries used for the project <a name="libraries"></a>
