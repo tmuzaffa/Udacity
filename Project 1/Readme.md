@@ -76,5 +76,5 @@ The following key findings from the analysis are summarized below:
 - Remove the $ symbol: https://stackoverflow.com/questions/22588316/pandas-applying-regex-to-replace-values
 - Subplots: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.subplots.html
 - SentimentIntensityAnalyzer:https://stackoverflow.com/questions/39462021/nltk-sentiment-vader-polarity-scorestext-not-working
-- Dropping multiple columns: https://stackoverflow.com/questions/28538536/deleting-multiple-columns-based-on-column-names-in-pandas                                  https://stackoverflow.com/questions/17838752/how-to-delete-multiple-columns-in-one-pass
+- Dropping multiple columns: https://stackoverflow.com/questions/28538536/deleting-multiple-columns-based-on-column-names-in-pandas                                  -  https://stackoverflow.com/questions/17838752/how-to-delete-multiple-columns-in-one-pass
 - Dtype:  https://stackoverflow.com/questions/21271581/selecting-pandas-columns-by-dtype
