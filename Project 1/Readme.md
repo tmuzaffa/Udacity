@@ -46,13 +46,13 @@ Can we predict he price of the listing based on property type, neighbourhood, an
 
 ## File Descriptions <a name="files"></a>
 
-Vancouver folder contains 
+Vancouver folder contains five files
 
-Lastly, the seattle folder contains the dataset from Kaggle (https://www.kaggle.com/airbnb/seattle). 
-It contains 3 files:
-- calendar.csv: calendar availability of listings and price
-- listings.csv: information about all the available listings
-- reviews.csv: listing reviews by the users
+- calendar.csv: availability data for listings
+- listings.csv: information about listings
+- reviews.csv: reviews by users
+- neighbourhoods.csv  (not used)
+- neighbourhoods.geojson (not used)
 
 ## Summary Of Conclusions<a name="results"></a>
 
@@ -69,12 +69,12 @@ The following key findings from the analysis are summarized below:
 
 ## Acknowledgements<a name="acknowledgements"></a>
 
-Credit to the AirBnB dataset published by AirBnB and Kaggle for hosting it, the dataset here: https://www.kaggle.com/airbnb/
-Remove the plot border: https://stackoverflow.com/questions/925024/how-can-i-remove-the-top-and-right-axis-in-matplotlib
-Annotations:  https://robertmitchellv.com/blog-bar-chart-annotations-pandas-mpl.html
-Gradient Color: https://www.pythonprogramming.in/bar-chart-with-different-color-of-bars.html
-Remove the $ symbol: https://stackoverflow.com/questions/22588316/pandas-applying-regex-to-replace-values
-Subplots: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.subplots.html
-SentimentIntensityAnalyzer:https://stackoverflow.com/questions/39462021/nltk-sentiment-vader-polarity-scorestext-not-working
-Dropping multiple columns: https://stackoverflow.com/questions/28538536/deleting-multiple-columns-based-on-column-names-in-pandas                                  https://stackoverflow.com/questions/17838752/how-to-delete-multiple-columns-in-one-pass
-Dtype:  https://stackoverflow.com/questions/21271581/selecting-pandas-columns-by-dtype
+- Credit to the AirBnB dataset published by AirBnB and Kaggle for hosting it, the dataset here: https://www.kaggle.com/airbnb/
+- Remove the plot border: https://stackoverflow.com/questions/925024/how-can-i-remove-the-top-and-right-axis-in-matplotlib
+- Annotations:  https://robertmitchellv.com/blog-bar-chart-annotations-pandas-mpl.html
+- Gradient Color: https://www.pythonprogramming.in/bar-chart-with-different-color-of-bars.html
+- Remove the $ symbol: https://stackoverflow.com/questions/22588316/pandas-applying-regex-to-replace-values
+- Subplots: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.subplots.html
+- SentimentIntensityAnalyzer:https://stackoverflow.com/questions/39462021/nltk-sentiment-vader-polarity-scorestext-not-working
+- Dropping multiple columns: https://stackoverflow.com/questions/28538536/deleting-multiple-columns-based-on-column-names-in-pandas                                  https://stackoverflow.com/questions/17838752/how-to-delete-multiple-columns-in-one-pass
+- Dtype:  https://stackoverflow.com/questions/21271581/selecting-pandas-columns-by-dtype
