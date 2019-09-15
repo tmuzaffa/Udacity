@@ -78,3 +78,4 @@ The following key findings from the analysis are summarized below:
 - SentimentIntensityAnalyzer:https://stackoverflow.com/questions/39462021/nltk-sentiment-vader-polarity-scorestext-not-working
 - Dropping multiple columns: https://stackoverflow.com/questions/28538536/deleting-multiple-columns-based-on-column-names-in-pandas                                  -  https://stackoverflow.com/questions/17838752/how-to-delete-multiple-columns-in-one-pass
 - Dtype:  https://stackoverflow.com/questions/21271581/selecting-pandas-columns-by-dtype
+- Replacing True, False: https://stackoverflow.com/questions/23307301/replacing-column-values-in-a-pandas-dataframe
